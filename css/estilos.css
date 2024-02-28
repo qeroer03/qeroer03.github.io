@@ -167,7 +167,8 @@ a.botonGetStarted:hover {
 }
 
 .boxHeader .imgHeader {
-
+    right: -19%;
+    position: relative;
 }
 
 .imgHeader img {
