@@ -166,9 +166,6 @@ a.botonGetStarted:hover {
     transform: translateY(-6px);
 }
 
-.boxHeader .imgHeader {
-    position: center;
-}
 
 .imgHeader img {
     width: 80%;
