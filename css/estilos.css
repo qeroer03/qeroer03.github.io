@@ -119,25 +119,6 @@ header {
     align-items: center;
 }
 
-.boxHeader .textosHeader {
-    width: 42%;
-    position: relative;
-    left: 15%;
-    transform: translateY(0);
-    opacity: 1;
-    animation: animacion2 1s ease-out;
-}
-
-.boxHeader .textosHeader h1 {
-    font-size: 50px;
-    width: 55%;
-}
-
-.boxHeader .textosHeader p {
-    width: 65%;
-    color: #9c9c9c;
-    font-size: 14px;
-}
 
 a.botonGetStarted {
     display: inline-block;
@@ -584,25 +565,6 @@ a.botonGetStarted:hover {
         height: auto;
     }
 
-    .boxHeader .textosHeader {
-        width: 90%;
-        margin-bottom: 100px;
-        text-align: left;
-        left: 0;
-        margin: 0 auto;
-    }
-    .boxHeader h1 {
-        font-size: 40px;
-    }
-    .boxHeader .textosHeader h1 {
-        width: 100%;
-    }
-    .boxHeader .textosHeader p {
-        width: 100%;
-        margin: 0 auto;
-        text-align: left;
-    }
-
     .imgHeader img {
         width: 50%;
     }
@@ -713,16 +675,7 @@ a.botonGetStarted:hover {
     }
     /* ESTILOS HEADER */
 
-    .boxHeader .textosHeader {
-        width: 90%;
-    }
-    .boxHeader h1 {
-        font-size: 25px;
-    }
-    .boxHeader h2 {
-        font-size: 20px;
-        font-weight: 300;
-    }
+
     /* ESTILOS FEATURES */
     .features {
         width: 100%;
