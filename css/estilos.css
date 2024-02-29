@@ -51,13 +51,6 @@ p {
     border-bottom: 2px solid #20bf6b;
 }
 
-.imgHeader {
-    text-align: center;
-}
-
-.imgHeader img {
-    display: inline-block; /* or inline; depending on your needs */
-}
 
 
 .boxLogo {
@@ -148,8 +141,7 @@ a.botonGetStarted:hover {
 
 
 .imgHeader img {
-    width: 10%;
-    transform: translateX(0);
+
     opacity: 1;
     animation: animacion1 1s ease-out;
 }
@@ -568,9 +560,7 @@ a.botonGetStarted:hover {
         height: auto;
     }
 
-    .imgHeader img {
-        width: 50%;
-    }
+
     /* ESTILOS FEATURES */
     .boxFeatures {
         justify-content: center;
