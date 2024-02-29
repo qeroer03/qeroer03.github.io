@@ -613,14 +613,7 @@ a.botonGetStarted:hover {
         margin: 0 auto;
         text-align: left;
     }
-    .boxHeader .imgHeader {
-        width: 100px;
-        height: auto;
-        top: -20px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+
     .imgHeader img {
         width: 50%;
     }
