@@ -614,7 +614,8 @@ a.botonGetStarted:hover {
         text-align: left;
     }
     .boxHeader .imgHeader {
-        width: 100%;
+        width: 100px;
+        height: auto;
         top: -20px;
         right: 0;
         display: flex;
