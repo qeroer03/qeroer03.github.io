@@ -716,9 +716,7 @@ a.botonGetStarted:hover {
         text-align: center;
     }
     /* ESTILOS HEADER */
-    .boxHeader {
-        height: 700px;
-    }
+
     .boxHeader .textosHeader {
         width: 90%;
     }
