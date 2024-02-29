@@ -51,6 +51,13 @@ p {
     border-bottom: 2px solid #20bf6b;
 }
 
+.boxHeader imgHeader {
+    color: #333;
+    background: #fbb2bb;
+    padding: 10px;
+    text-align: center;
+}
+
 .boxLogo {
     display: flex;
     justify-content: center;
