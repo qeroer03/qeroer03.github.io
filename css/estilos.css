@@ -52,10 +52,9 @@ p {
 }
 
 .boxHeader imgHeader {
-    color: #333;
-    background: #fbb2bb;
-    padding: 10px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .boxLogo {
