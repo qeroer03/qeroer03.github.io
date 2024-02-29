@@ -587,14 +587,7 @@ a.botonGetStarted:hover {
     header {
         height: auto;
     }
-    .boxHeader {
-        flex-wrap: wrap;
-        height: 900px;
-        flex-direction: column-reverse;
-        align-items: center;
-        justify-content: center;
-        width: 100%;
-    }
+
     .boxHeader .textosHeader {
         width: 90%;
         margin-bottom: 100px;
