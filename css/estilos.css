@@ -615,14 +615,14 @@ a.botonGetStarted:hover {
     }
     .boxHeader .imgHeader {
         width: 100%;
-        top: -40px;
+        top: -20px;
         right: 0;
         display: flex;
         justify-content: center;
         align-items: center;
     }
     .imgHeader img {
-        width: 95%;
+        width: 100%;
     }
     /* ESTILOS FEATURES */
     .boxFeatures {
