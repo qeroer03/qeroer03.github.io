@@ -51,11 +51,14 @@ p {
     border-bottom: 2px solid #20bf6b;
 }
 
-.boxHeader imgHeader {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.imgHeader {
+    text-align: center;
 }
+
+.imgHeader img {
+    display: inline-block; /* or inline; depending on your needs */
+}
+
 
 .boxLogo {
     display: flex;
