@@ -617,7 +617,6 @@ a.botonGetStarted:hover {
         width: 100px;
         height: auto;
         top: -20px;
-        right: 0;
         display: flex;
         justify-content: center;
         align-items: center;
