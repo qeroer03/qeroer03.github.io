@@ -138,10 +138,26 @@ a.botonGetStarted:hover {
     box-shadow: 0px 15px 18px rgba(32, 191, 107, 0.4);
     transform: translateY(-6px);
 }
+.boxHeader {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+.imgHeader {
+    /* Ensures the div containing the image does not stretch beyond the image size */
+    width: 100px; /* Set width of the container to match the image */
+    height: auto; /* Set height of the container to match the image */
+}
+
+.imgHeader img {
+    width: 100%; /* Make the image fill the container */
+    height: 100%; /* Make the image fill the container */
+    object-fit: cover; /* This ensures the aspect ratio is maintained without stretching the image */
+}
 
 
 .imgHeader img {
-
     opacity: 1;
     animation: animacion1 1s ease-out;
 }
