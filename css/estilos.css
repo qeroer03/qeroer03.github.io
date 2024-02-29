@@ -113,12 +113,6 @@ header {
     padding-top: 55px;
 }
 
-.boxHeader {
-    position: absolute;
-    top: 20px;
-    left: 30px;
-}
-
 
 a.botonGetStarted {
     display: inline-block;
