@@ -153,7 +153,7 @@ a.botonGetStarted:hover {
 .imgHeader img {
     width: 100%; /* Make the image fill the container */
     height: 100%; /* Make the image fill the container */
-    object-fit: cover; /* This ensures the aspect ratio is maintained without stretching the image */
+    object-fit: contain;
 }
 
 
