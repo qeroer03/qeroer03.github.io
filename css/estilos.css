@@ -146,7 +146,7 @@ a.botonGetStarted:hover {
 
 .imgHeader {
     /* Ensures the div containing the image does not stretch beyond the image size */
-    width: 100px; /* Set width of the container to match the image */
+    width: 200px; /* Set width of the container to match the image */
     height: auto; /* Set height of the container to match the image */
 }
 
