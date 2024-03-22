@@ -71,8 +71,8 @@ p {
 .irArriba {
     display: block!important;
     padding: 15px;
-    background: #20be6b;
-    border: 2px solid #20bf6b;
+    background: #f7bfc4;
+    border: 2px solid #000000;
     font-size: 18px;
     color: #fff;
     cursor: pointer;
