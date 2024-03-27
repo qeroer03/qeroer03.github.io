@@ -406,11 +406,17 @@ a.botonGetStarted:hover {
     -webkit-box-shadow: 1px 9px 15px -8px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 1px 9px 15px -8px rgba(0, 0, 0, 0.75);
     box-shadow: 1px 9px 15px -8px rgba(0, 0, 0, 0.75);
+    position: relative; /* Added for video responsiveness */
+    padding-top: 25%; /* This maintains the aspect ratio of the video */
+    height: 0; /* Important for maintaining aspect ratio */
 }
 
-.imgAbout img {
+.imgAbout iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    vertical-align: top;
+    height: 100%;
 }
 
 .contenidoAbout {
